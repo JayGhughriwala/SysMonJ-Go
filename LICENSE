@@ -1,0 +1,17 @@
+
+---
+
+### 📄 `LICENSE`
+
+Use MIT license content from [here](https://opensource.org/license/mit/), or I can generate it for you too.
+
+---
+
+## 📤 Upload to GitHub
+
+```bash
+git init
+git add .
+git commit -m "SysMonJ-Go: Advanced Monitoring Tool "
+git remote add origin https://github.com/JayGhughriwala/SysMonJ-Go.git
+git push -u origin master
